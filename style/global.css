@@ -1,0 +1,19 @@
+*{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+}
+
+:root{
+        /* macas */
+--snitap-sun:#ffcd1e;
+--snitap-sky-mid:#06b6d6;
+--snitap-sky-light:#67e8f9;
+--snitap-joy-mid:#db2777;
+--snitap-joy-light:#f472b6;
+--snitap-leaf-mid:#16a34a;
+        /* base */
+--text-color:#0000;
+--bg-color:#fafafa;
+
+}
