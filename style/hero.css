@@ -33,6 +33,9 @@ section.hero {
     display: block;
     animation: slideUp 5s 2s infinite ease;
   }
+
+
+
   /* buttons */
   & .buttons {
     display: flex;
