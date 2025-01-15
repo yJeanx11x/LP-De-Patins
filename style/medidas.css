@@ -1,0 +1,11 @@
+@media(width <= 375px){
+        .hero {
+                flex-direction: column-reverse;
+                
+        }
+        .buttons {
+                flex-direction: column-reverse;
+        }
+        
+   
+}
